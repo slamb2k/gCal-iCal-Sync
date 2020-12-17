@@ -18,6 +18,9 @@ gcal_id = 'mygooglecalendar@gmail.com'
 # Only events after this date will be added
 start_date = '2016-01-01'
 
+# What's the default timezone when unknown
+default_timezone = 'Australia/Melbourne'
+
 # Set to true to erase all events on calendar before importing
 erase_all = False
 

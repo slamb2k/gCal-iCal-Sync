@@ -1,6 +1,6 @@
 # gCal-iCal-Sync
 
-[![Build status](https://travis-ci.org/jncraton/gCal-iCal-Sync.png)](https://travis-ci.org/jncraton/gCal-iCal-Sync)
+![Build status](https://github.com/slamb2k/gCal-iCal-Sync/workflows/Python%20application/badge.svg)
 
 Syncs a public iCal URL to a Google Calendar. On each run, this program will add events to a Google calendar from an iCal (.ics) file provided as a URL. This can optionally remove all events from the calendar not found in the iCal file to create a Google calendar that is an exact copy of another available calendar.
 
